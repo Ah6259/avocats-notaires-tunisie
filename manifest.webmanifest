@@ -1,0 +1,31 @@
+{
+  "id": "/avocats-notaires-tunisie/",
+  "name": "Avocats et notaires Tunisie",
+  "short_name": "Avocats TN",
+  "description": "Annuaire gratuit des avocats, notaires, huissiers de justice et traducteurs en Tunisie par gouvernorat : adresse, téléphone, itinéraire. En français et en arabe.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "fr",
+  "dir": "auto",
+  "theme_color": "#7A1F2E",
+  "background_color": "#F4F7FA",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "avocats-notaires-tunisie",
+  "url": "https://ah6259.github.io/avocats-notaires-tunisie/",
+  "nom": {
+    "fr": "Avocats et notaires Tunisie",
+    "ar": "المحامون وعدول الإشهاد في تونس"
+  },
+  "court": {
+    "fr": "Avocats TN",
+    "ar": "المحامون"
+  },
+  "sous_titre": {
+    "fr": "Annuaire gratuit · français et arabe",
+    "ar": "دليل مجاني · بالعربية والفرنسية"
+  },
+  "titre_accueil": {
+    "fr": "Avocats, notaires et huissiers en Tunisie, par gouvernorat",
+    "ar": "المحامون وعدول الإشهاد وعدول التنفيذ في تونس حسب الولاية"
+  },
+  "intro": {
+    "fr": "Annuaire gratuit des avocats, notaires, huissiers de justice et traducteurs en Tunisie : adresse, téléphone et itinéraire, gouvernorat par gouvernorat. Sans inscription.",
+    "ar": "دليل مجاني للمحامين وعدول الإشهاد وعدول التنفيذ والمترجمين في تونس: العنوان والهاتف والطريق، ولاية بولاية. دون تسجيل."
+  },
+  "description": "Annuaire gratuit des avocats, notaires, huissiers de justice et traducteurs en Tunisie par gouvernorat : adresse, téléphone, itinéraire. En français et en arabe.",
+  "couleur": "#7A1F2E",
+  "couleur_fonce": "#561521",
+  "couleur_claire": "#F6E8EA",
+  "schema": "LegalService",
+  "metiers": [
+    {
+      "id": "avocat",
+      "osm": [
+        "office=lawyer"
+      ],
+      "fr": "Avocat",
+      "fr_pl": "Avocats",
+      "ar": "محامٍ",
+      "ar_pl": "المحامون",
+      "mots": "avocat avocats cabinet d'avocat maître conseil juridique droit justice tribunal محامي محامٍ محاماة مكتب محاماة"
+    },
+    {
+      "id": "notaire",
+      "osm": [
+        "office=notary"
+      ],
+      "fr": "Notaire",
+      "fr_pl": "Notaires",
+      "ar": "عدل إشهاد",
+      "ar_pl": "عدول الإشهاد",
+      "mots": "notaire notaires notariat acte contrat عدل إشهاد عدول الإشهاد عقد"
+    },
+    {
+      "id": "huissier",
+      "osm": [
+        "office=bailiff"
+      ],
+      "fr": "Huissier de justice",
+      "fr_pl": "Huissiers de justice",
+      "ar": "عدل منفذ",
+      "ar_pl": "عدول التنفيذ",
+      "mots": "huissier huissiers de justice constat signification exécution عدل منفذ عدول التنفيذ"
+    },
+    {
+      "id": "traducteur",
+      "osm": [
+        "office=translator"
+      ],
+      "fr": "Traducteur",
+      "fr_pl": "Traducteurs",
+      "ar": "مترجم",
+      "ar_pl": "المترجمون",
+      "mots": "traducteur traduction traducteur assermenté interprète مترجم ترجمة مترجم محلف"
+    }
+  ],
+  "liens": [
+    {
+      "fr": "Modèles de documents gratuits",
+      "ar": "نماذج وثائق مجانية",
+      "url": "https://ah6259.github.io/documents-tunisie/"
+    }
+  ],
+  "inscriptions_ouvertes": false,
+  "goatcounter": "https://prix-eaux-tunisie.goatcounter.com",
+  "formspree": "https://formspree.io/f/mwlpakqj",
+  "photo": {
+    "fichier": "assets/photo-accueil.webp",
+    "largeur": 900,
+    "hauteur": 675,
+    "alt": {
+      "fr": "Contrat et stylo-plume posés sur un bureau",
+      "ar": "عقد وقلم حبر على مكتب"
+    },
+    "auteur": "Blogtrepreneur",
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
+    "preuve": "annuaires/preuves/2026-10-05/avocats-notaires-tunisie__Legal_Contract_Signature_-_Warm_Tones.jpg_page.html"
+  },
+  "og_image": "og-image-v1.jpg"
+}
