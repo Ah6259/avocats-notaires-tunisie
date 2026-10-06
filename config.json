@@ -36,7 +36,20 @@
       "fr_pl": "Avocats",
       "ar": "محامٍ",
       "ar_pl": "المحامون",
-      "mots": "avocat avocats cabinet d'avocat maître conseil juridique droit justice tribunal محامي محامٍ محاماة مكتب محاماة"
+      "mots": "avocat avocats cabinet d'avocat maître conseil juridique droit justice tribunal محامي محامٍ محاماة مكتب محاماة",
+      "photo": {
+        "fichier": "assets/metiers-photos/avocat.webp",
+        "largeur": 600,
+        "hauteur": 450,
+        "alt": {
+          "fr": "Statue de la Justice tenant une balance",
+          "ar": "تمثال العدالة يحمل الميزان"
+        },
+        "auteur": "DP Singh Bhullar",
+        "licence": "CC BY-SA 4.0",
+        "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Close-up_of_Lady_Justice_statue_holding_scales,_symbolizing_justice_and_fairness.jpg"
+      }
     },
     {
       "id": "notaire",
@@ -47,7 +60,20 @@
       "fr_pl": "Notaires",
       "ar": "عدل إشهاد",
       "ar_pl": "عدول الإشهاد",
-      "mots": "notaire notaires notariat acte contrat عدل إشهاد عدول الإشهاد عقد"
+      "mots": "notaire notaires notariat acte contrat عدل إشهاد عدول الإشهاد عقد",
+      "photo": {
+        "fichier": "assets/metiers-photos/notaire.webp",
+        "largeur": 600,
+        "hauteur": 450,
+        "alt": {
+          "fr": "Tampon en bois pour authentifier les actes",
+          "ar": "ختم خشبي لتوثيق العقود"
+        },
+        "auteur": "Auteur inconnu (Paris Musées, musée Jean Moulin)",
+        "licence": "CC0",
+        "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Tampon_encreur_pour_timbre_humide_du_Service_Cin%C3%A9matographique_FFI,_2002.73(2).jpg"
+      }
     },
     {
       "id": "huissier",
@@ -58,7 +84,20 @@
       "fr_pl": "Huissiers de justice",
       "ar": "عدل منفذ",
       "ar_pl": "عدول التنفيذ",
-      "mots": "huissier huissiers de justice constat signification exécution عدل منفذ عدول التنفيذ"
+      "mots": "huissier huissiers de justice constat signification exécution عدل منفذ عدول التنفيذ",
+      "photo": {
+        "fichier": "assets/metiers-photos/huissier.webp",
+        "largeur": 600,
+        "hauteur": 450,
+        "alt": {
+          "fr": "Acte d'huissier manuscrit portant un cachet officiel",
+          "ar": "محضر عدل منفذ مكتوب بخط اليد وعليه ختم رسمي"
+        },
+        "auteur": "Auteur inconnu (Paris Musées, maison de Balzac)",
+        "licence": "CC0",
+        "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Sommation_par_huissier_de_justice_%C3%A0_l%E2%80%99encontre_de_Jean_Gigoux,_BAL_46.3.jpg"
+      }
     },
     {
       "id": "traducteur",
@@ -69,7 +108,20 @@
       "fr_pl": "Traducteurs",
       "ar": "مترجم",
       "ar_pl": "المترجمون",
-      "mots": "traducteur traduction traducteur assermenté interprète مترجم ترجمة مترجم محلف"
+      "mots": "traducteur traduction traducteur assermenté interprète مترجم ترجمة مترجم محلف",
+      "photo": {
+        "fichier": "assets/metiers-photos/traducteur.webp",
+        "largeur": 600,
+        "hauteur": 450,
+        "alt": {
+          "fr": "Dictionnaire arabe ancien ouvert",
+          "ar": "قاموس عربي قديم مفتوح"
+        },
+        "auteur": "Mauro Cateb",
+        "licence": "CC BY-SA 4.0",
+        "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Arabic_dictionary_(1923).jpg"
+      }
     }
   ],
   "liens": [
