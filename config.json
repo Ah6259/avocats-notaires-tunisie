@@ -130,7 +130,9 @@
       "ar": "نماذج وثائق مجانية",
       "url": "https://ah6259.github.io/documents-tunisie/",
       "desc_fr": "Contrats, attestations et démarches, en français et en arabe",
-      "desc_ar": "عقود وشهادات وإجراءات بالعربية والفرنسية"
+      "desc_ar": "عقود وشهادات وإجراءات بالعربية والفرنسية",
+      "logo": "assets/liens/documents.svg",
+      "vedette": true
     },
     {
       "fr": "Vendre une voiture : contrat et étapes",
