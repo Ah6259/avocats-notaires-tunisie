@@ -131,7 +131,7 @@
       "url": "https://ah6259.github.io/documents-tunisie/"
     }
   ],
-  "inscriptions_ouvertes": false,
+  "inscriptions_ouvertes": true,
   "goatcounter": "https://prix-eaux-tunisie.goatcounter.com",
   "formspree": "https://formspree.io/f/mwlpakqj",
   "photo": {
@@ -148,5 +148,25 @@
     "source": "https://commons.wikimedia.org/wiki/File:Legal_Contract_%26_Signature_-_Warm_Tones.jpg",
     "preuve": "annuaires/preuves/2026-10-05/avocats-notaires-tunisie__Legal_Contract_Signature_-_Warm_Tones.jpg_page.html"
   },
-  "og_image": "og-image-v1.jpg"
+  "og_image": "og-image-v1.jpg",
+  "pro": {
+    "prix_premiere_annee": 29,
+    "prix_an": 59,
+    "inpdp_accord": "Accord de l'INPDP obtenu par Ahmed le 06/10/2026 (contact direct)",
+    "autres_paiements": [
+      {
+        "nom": "D17",
+        "detail": "24 321 390"
+      },
+      {
+        "nom": "IZI",
+        "detail": "24 321 390"
+      },
+      {
+        "nom": "Wafacash",
+        "detail": "24 321 390"
+      }
+    ],
+    "whatsapp_preuve": "24321390"
+  }
 }
