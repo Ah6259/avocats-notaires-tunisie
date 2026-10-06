@@ -128,7 +128,24 @@
     {
       "fr": "Modèles de documents gratuits",
       "ar": "نماذج وثائق مجانية",
-      "url": "https://ah6259.github.io/documents-tunisie/"
+      "url": "https://ah6259.github.io/documents-tunisie/",
+      "desc_fr": "Contrats, attestations et démarches, en français et en arabe",
+      "desc_ar": "عقود وشهادات وإجراءات بالعربية والفرنسية"
+    },
+    {
+      "fr": "Vendre une voiture : contrat et étapes",
+      "ar": "بيع سيارة: العقد والمراحل",
+      "url": "https://ah6259.github.io/documents-tunisie/vente-voiture/"
+    },
+    {
+      "fr": "Louer une maison : contrat et étapes",
+      "ar": "كراء منزل: العقد والمراحل",
+      "url": "https://ah6259.github.io/documents-tunisie/location-maison/"
+    },
+    {
+      "fr": "Divorce : les démarches",
+      "ar": "الطلاق: الإجراءات",
+      "url": "https://ah6259.github.io/documents-tunisie/divorce/"
     }
   ],
   "inscriptions_ouvertes": true,
