@@ -1,4 +1,10 @@
 # Avocats et notaires Tunisie — https://ah6259.github.io/avocats-notaires-tunisie/
+
+> ⚠️ **À REPORTER DANS LE MOTEUR DU PC (`annuaires/moteur/`) AVANT TOUTE SYNCHRONISATION** (07/10/2026) : correction des grandes
+> cartes de métier qui filtrent la liste (`a.metier[data-m]` → `choisir()` dans `assets/annuaire.js`) + son test dans
+> `tools/test_site.mjs` (« une grande carte de métier filtre la liste »). Faite depuis le téléphone, elle a déjà été effacée une
+> fois par `synchroniser.py` le 07/10 : copier `assets/annuaire.js` et `tools/test_site.mjs` de ce dépôt vers le moteur, puis supprimer ce bloc.
+
 - Métiers et étiquettes OpenStreetMap : avocats (`office=lawyer`), notaires / عدول الإشهاد (`office=notary`),
   huissiers de justice / عدول التنفيذ (`office=bailiff`), traducteurs (`office=translator`). Couleur bordeaux, schéma `LegalService`.
 - Au lancement (5 octobre 2026) : 26 fiches (18 avocats, 8 notaires ; 0 huissier, 0 traducteur : étiquettes encore vides en Tunisie).
