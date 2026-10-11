@@ -1,7 +1,7 @@
 # Avocats et notaires Tunisie
 
 Annuaire gratuit des avocats, notaires (عدول الإشهاد), huissiers de justice et traducteurs en Tunisie, par gouvernorat :
-adresse, téléphone, itinéraire. En ligne : https://ah6259.github.io/avocats-notaires-tunisie/
+adresse, téléphone, itinéraire. En ligne : https://avocats.clicvia.com/
 Étiquettes OpenStreetMap : `office=lawyer`, `office=notary`, `office=bailiff`, `office=translator` (26 fiches au lancement).
 
 # Annuaire gratuit (moteur commun)
