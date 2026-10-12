@@ -128,7 +128,7 @@
     {
       "fr": "Modèles de documents gratuits",
       "ar": "نماذج وثائق مجانية",
-      "url": "https://ah6259.github.io/documents-tunisie/",
+      "url": "https://documents.clicvia.com/",
       "desc_fr": "Contrats, attestations et démarches, en français et en arabe",
       "desc_ar": "عقود وشهادات وإجراءات بالعربية والفرنسية",
       "logo": "assets/liens/documents.svg",
@@ -137,17 +137,17 @@
     {
       "fr": "Vendre une voiture : contrat et étapes",
       "ar": "بيع سيارة: العقد والمراحل",
-      "url": "https://ah6259.github.io/documents-tunisie/vente-voiture/"
+      "url": "https://documents.clicvia.com/vente-voiture/"
     },
     {
       "fr": "Louer une maison : contrat et étapes",
       "ar": "كراء منزل: العقد والمراحل",
-      "url": "https://ah6259.github.io/documents-tunisie/location-maison/"
+      "url": "https://documents.clicvia.com/location-maison/"
     },
     {
       "fr": "Divorce : les démarches",
       "ar": "الطلاق: الإجراءات",
-      "url": "https://ah6259.github.io/documents-tunisie/divorce/"
+      "url": "https://documents.clicvia.com/divorce/"
     }
   ],
   "inscriptions_ouvertes": true,
