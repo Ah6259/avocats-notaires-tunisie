@@ -1,0 +1,43 @@
+# Avocats et notaires Tunisie
+
+> Annuaire gratuit des avocats, notaires, huissiers de justice et traducteurs en Tunisie par gouvernorat : adresse, téléphone, itinéraire. En français et en arabe.
+
+Site gratuit et indépendant, publié par Clicvia (https://clicvia.com/), le portail de services pratiques pour la Tunisie. Adresse : https://avocats.clicvia.com/
+Langues : français, arabe.
+
+## Pages principales
+
+- [À propos et sources](https://avocats.clicvia.com/a-propos/) : D'où viennent les fiches de Avocats et notaires Tunisie (OpenStreetMap, demandes des professionnels), données personnelles et retrait.
+- [Amor Law Firm — Avocat à Sousse : téléphone, adresse](https://avocats.clicvia.com/fiche/web-sousse-amor-law-firm/) : Amor Law Firm, avocat à Sousse (gouvernorat de Sousse) : téléphone, adresse et itinéraire. Annuaire gratuit.
+- [Avocate Maitre Maha Jemai Selmi — Avocat à قصر هلال : téléphone, adresse](https://avocats.clicvia.com/fiche/osm-w1215150592/) : Avocate Maitre Maha Jemai Selmi, avocat à قصر هلال (gouvernorat de Monastir) : adresse et itinéraire. Annuaire gratuit.
+- [Cabinet avocat — Avocat à نابل : téléphone, adresse](https://avocats.clicvia.com/fiche/osm-n4578761017/) : Cabinet avocat, avocat à نابل (gouvernorat de Nabeul) : téléphone, adresse et itinéraire. Annuaire gratuit.
+- [cabinet conseil fiscal Med Ali Jday — Avocat à Sousse : téléphone, adresse](https://avocats.clicvia.com/fiche/osm-n4745355121/) : cabinet conseil fiscal Med Ali Jday, avocat à Sousse (gouvernorat de Sousse) : téléphone, adresse et itinéraire. Annuaire gratuit.
+- [Cabinet d'avocat Boughanmi — Avocat à Béja : téléphone, adresse](https://avocats.clicvia.com/fiche/web-beja-boughanmi/) : Cabinet d'avocat Boughanmi, avocat à Béja (gouvernorat de Béja) : téléphone, adresse et itinéraire. Annuaire gratuit.
+- [Cabinet Dr. Brahim Latrech — Avocat à Tunis : téléphone, adresse](https://avocats.clicvia.com/fiche/web-tunis-brahim-latrech/) : Cabinet Dr. Brahim Latrech, avocat à Tunis (gouvernorat de Tunis) : téléphone, adresse et itinéraire. Annuaire gratuit.
+- [Cabinet Elair – Maître Mohamed Zied El Air — Avocat à Tunis : téléphone, adresse](https://avocats.clicvia.com/fiche/web-tunis-elair/) : Cabinet Elair – Maître Mohamed Zied El Air, avocat à Tunis (gouvernorat de Tunis) : téléphone, adresse et itinéraire. Annuaire gratuit.
+- [Cabinet Karray Avocats — Avocat à Sfax : téléphone, adresse](https://avocats.clicvia.com/fiche/web-sfax-karray-avocats/) : Cabinet Karray Avocats, avocat à Sfax (gouvernorat de Sfax) : téléphone, adresse et itinéraire. Annuaire gratuit.
+- [Avocats en Tunisie (29) — téléphone et adresse, gratuit](https://avocats.clicvia.com/metier/avocat/) : Avocats en Tunisie : 29 fiche(s) avec téléphone, adresse, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. المحامون في تونس.
+- [Avocats à Ariana (2) — téléphone et adresse, gratuit](https://avocats.clicvia.com/metier/avocat/ariana/) : Avocats à Ariana : 2 fiche(s) avec téléphone, adresse, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. المحامون في ولاية أريانة.
+- [Avocats à Béja (1) — téléphone et adresse, gratuit](https://avocats.clicvia.com/metier/avocat/beja/) : Avocats à Béja : 1 fiche(s) avec téléphone, adresse, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. المحامون في ولاية باجة.
+- [Avocats à Ben Arous (1) — téléphone et adresse, gratuit](https://avocats.clicvia.com/metier/avocat/ben-arous/) : Avocats à Ben Arous : 1 fiche(s) avec téléphone, adresse, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. المحامون في ولاية بن عروس.
+- [Avocats à Bizerte (1) — téléphone et adresse, gratuit](https://avocats.clicvia.com/metier/avocat/bizerte/) : Avocats à Bizerte : 1 fiche(s) avec téléphone, adresse, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. المحامون في ولاية بنزرت.
+- [Avocats à Gabès (1) — téléphone et adresse, gratuit](https://avocats.clicvia.com/metier/avocat/gabes/) : Avocats à Gabès : 1 fiche(s) avec téléphone, adresse, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. المحامون في ولاية قابس.
+- [Avocats à Kairouan (1) — téléphone et adresse, gratuit](https://avocats.clicvia.com/metier/avocat/kairouan/) : Avocats à Kairouan : 1 fiche(s) avec téléphone, adresse, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. المحامون في ولاية القيروان.
+- [Avocats à Médenine (2) — téléphone et adresse, gratuit](https://avocats.clicvia.com/metier/avocat/medenine/) : Avocats à Médenine : 2 fiche(s) avec téléphone, adresse, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. المحامون في ولاية مدنين.
+- [professionnels à Ariana (8) — adresse et téléphone, gratuit](https://avocats.clicvia.com/gouvernorat/ariana/) : professionnels dans le gouvernorat de Ariana : adresse, téléphone, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. مهنيين في ولاية أريانة.
+- [professionnels à Béja (10) — adresse et téléphone, gratuit](https://avocats.clicvia.com/gouvernorat/beja/) : professionnels dans le gouvernorat de Béja : adresse, téléphone, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. مهنيين في ولاية باجة.
+- [professionnels à Ben Arous (11) — adresse et téléphone, gratuit](https://avocats.clicvia.com/gouvernorat/ben-arous/) : professionnels dans le gouvernorat de Ben Arous : adresse, téléphone, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. مهنيين في ولاية بن عروس.
+- [professionnels à Bizerte (10) — adresse et téléphone, gratuit](https://avocats.clicvia.com/gouvernorat/bizerte/) : professionnels dans le gouvernorat de Bizerte : adresse, téléphone, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. مهنيين في ولاية بنزرت.
+- [professionnels à Gabès (10) — adresse et téléphone, gratuit](https://avocats.clicvia.com/gouvernorat/gabes/) : professionnels dans le gouvernorat de Gabès : adresse, téléphone, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. مهنيين في ولاية قابس.
+- [professionnels à Gafsa (9) — adresse et téléphone, gratuit](https://avocats.clicvia.com/gouvernorat/gafsa/) : professionnels dans le gouvernorat de Gafsa : adresse, téléphone, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. مهنيين في ولاية قفصة.
+- [professionnels à Jendouba (9) — adresse et téléphone, gratuit](https://avocats.clicvia.com/gouvernorat/jendouba/) : professionnels dans le gouvernorat de Jendouba : adresse, téléphone, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. مهنيين في ولاية جندوبة.
+- [professionnels à Kairouan (10) — adresse et téléphone, gratuit](https://avocats.clicvia.com/gouvernorat/kairouan/) : professionnels dans le gouvernorat de Kairouan : adresse, téléphone, WhatsApp et itinéraire. Annuaire gratuit en français et en arabe. مهنيين في ولاية القيروان.
+
+Le site compte 349 pages au total ; la liste complète est dans le plan du site : https://avocats.clicvia.com/sitemap.xml
+
+## À savoir
+
+- Annuaire gratuit ; les fiches viennent d'OpenStreetMap et des professionnels eux-mêmes.
+- Site non officiel : en cas de doute, la source officielle indiquée sur la page fait foi.
+- Pour citer : « Avocats et notaires Tunisie » avec le lien de la page utilisée.
+- Les assistants IA qui répondent à une question en citant leur source sont les bienvenus ; l'aspiration du contenu pour entraîner un modèle n'est pas autorisée (voir robots.txt).
