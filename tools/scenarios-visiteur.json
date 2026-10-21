@@ -51,32 +51,16 @@
   "croissant": true
  },
  {
-  "page": "",
+  "page": "metier/avocat/sousse/",
   "nom": "métier (Avocats) + gouvernorat (Sousse) : nombre de résultats",
-  "etapes": [
-   {
-    "sel": "#choix-g",
-    "valeur": "sousse"
-   },
-   {
-    "sel": ".puce[data-m=\"avocat\"]",
-    "clic": true
-   }
-  ],
   "lire": "#compte",
   "groupe": "metier",
   "ordre": 1,
   "croissant": true
  },
  {
-  "page": "",
-  "nom": "métier (Avocats) dans toute la Tunisie : nombre de résultats",
-  "etapes": [
-   {
-    "sel": ".puce[data-m=\"avocat\"]",
-    "clic": true
-   }
-  ],
+  "page": "metier/avocat/",
+  "nom": "métier (Avocats) dans toute la Tunisie (page du métier) : nombre de résultats",
   "lire": "#compte",
   "groupe": "metier",
   "ordre": 2,
