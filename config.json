@@ -49,7 +49,19 @@
         "licence": "CC BY-SA 4.0",
         "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "source": "https://commons.wikimedia.org/wiki/File:Close-up_of_Lady_Justice_statue_holding_scales,_symbolizing_justice_and_fairness.jpg"
-      }
+      },
+      "liens": [
+        {
+          "url": "https://avocat.org.tn/annuaire",
+          "fr": "ONAT — Ordre national des avocats de Tunisie",
+          "ar": "الهيئة الوطنية للمحامين بتونس",
+          "note": {
+            "fr": "l'annuaire officiel des avocats inscrits à l'Ordre",
+            "ar": "الدليل الرسمي للمحامين المرسمين بالهيئة"
+          },
+          "organisme": true
+        }
+      ]
     },
     {
       "id": "notaire",
@@ -73,7 +85,19 @@
         "licence": "CC0",
         "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "source": "https://commons.wikimedia.org/wiki/File:Tampon_encreur_pour_timbre_humide_du_Service_Cin%C3%A9matographique_FFI,_2002.73(2).jpg"
-      }
+      },
+      "liens": [
+        {
+          "url": "https://www.justice.gov.tn/index.php?id=367",
+          "fr": "Ministère de la Justice — tableau des notaires",
+          "ar": "وزارة العدل — جدول عدول الإشهاد",
+          "note": {
+            "fr": "la liste officielle des notaires par circonscription",
+            "ar": "الجدول الرسمي لعدول الإشهاد حسب الدوائر"
+          },
+          "organisme": true
+        }
+      ]
     },
     {
       "id": "huissier",
@@ -97,7 +121,19 @@
         "licence": "CC0",
         "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
         "source": "https://commons.wikimedia.org/wiki/File:Sommation_par_huissier_de_justice_%C3%A0_l%E2%80%99encontre_de_Jean_Gigoux,_BAL_46.3.jpg"
-      }
+      },
+      "liens": [
+        {
+          "url": "https://www.justice.gov.tn/index.php?id=366",
+          "fr": "Ministère de la Justice — tableau des huissiers de justice",
+          "ar": "وزارة العدل — جدول العدول المنفذين",
+          "note": {
+            "fr": "la liste officielle des huissiers de justice par circonscription",
+            "ar": "الجدول الرسمي للعدول المنفذين حسب الدوائر"
+          },
+          "organisme": true
+        }
+      ]
     },
     {
       "id": "traducteur",
@@ -121,7 +157,29 @@
         "licence": "CC BY-SA 4.0",
         "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "source": "https://commons.wikimedia.org/wiki/File:Arabic_dictionary_(1923).jpg"
-      }
+      },
+      "liens": [
+        {
+          "url": "https://www.justice.gov.tn/index.php?id=368",
+          "fr": "Ministère de la Justice — traducteurs assermentés par langue",
+          "ar": "وزارة العدل — جدول المترجمين المحلفين حسب الاختصاص",
+          "note": {
+            "fr": "la liste officielle des traducteurs assermentés, langue par langue",
+            "ar": "الجدول الرسمي للمترجمين المحلفين حسب اللغة"
+          },
+          "organisme": true
+        },
+        {
+          "url": "https://www.justice.gov.tn/index.php?id=369",
+          "fr": "Ministère de la Justice — traducteurs assermentés par région",
+          "ar": "وزارة العدل — جدول المترجمين المحلفين حسب الدوائر",
+          "note": {
+            "fr": "la même liste officielle, classée par tribunal",
+            "ar": "نفس الجدول الرسمي مرتّبًا حسب المحاكم"
+          },
+          "organisme": true
+        }
+      ]
     }
   ],
   "liens": [
@@ -173,8 +231,18 @@
     "prix_an": 59,
     "inpdp_accord": "Accord de l'INPDP obtenu par Ahmed le 06/10/2026 (contact direct)",
     "autres_paiements": [
-      {"nom": "D17", "detail": "24 321 390", "android": "https://play.google.com/store/apps/details?id=tn.mobipost", "iphone": "https://apps.apple.com/tn/app/digipostbank-d17/id1475640303"},
-      {"nom": "IZI", "detail": "24 321 390", "android": "https://play.google.com/store/apps/details?id=tn.izi.consumer", "iphone": "https://apps.apple.com/tn/app/izi/id1603653941"}
+      {
+        "nom": "D17",
+        "detail": "24 321 390",
+        "android": "https://play.google.com/store/apps/details?id=tn.mobipost",
+        "iphone": "https://apps.apple.com/tn/app/digipostbank-d17/id1475640303"
+      },
+      {
+        "nom": "IZI",
+        "detail": "24 321 390",
+        "android": "https://play.google.com/store/apps/details?id=tn.izi.consumer",
+        "iphone": "https://apps.apple.com/tn/app/izi/id1603653941"
+      }
     ],
     "whatsapp_preuve": "24321390"
   }
